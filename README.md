@@ -31,8 +31,8 @@ Once you've completed your Git training you will be ready to start branching, co
   * [x] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
   * [x] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
   * [x] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
-    * [x] Your first repo: [https://github.com/NancySy/hello-world]()
-    * [x] Your fork of patchwork repo: [https://github.com/NancySy/patchwork]()
+    * [x] Your first repo: [https://github.com/NancySy/hello-world](https://github.com/NancySy/hello-world)
+    * [x] Your fork of patchwork repo: [https://github.com/NancySy/patchwork](https://github.com/NancySy/patchwork)
 
 ## Just Starting Out
 
