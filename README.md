@@ -27,12 +27,12 @@ Once you've completed your Git training you will be ready to start branching, co
 
 ## Git / GitHub
 
-  * [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
-  * [ ] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
-  * [ ] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
-  * [ ] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
-    * [ ] Your first repo: [https://github.com/username/hello-world]()
-    * [ ] Your fork of patchwork repo: [https://github.com/username/patchwork]()
+  * [x] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
+  * [x] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
+  * [x] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
+  * [x] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
+    * [x] Your first repo: [https://github.com/NancySy/hello-world]()
+    * [x] Your fork of patchwork repo: [https://github.com/NancySy/patchwork]()
 
 ## Just Starting Out
 
