@@ -42,7 +42,7 @@ _Great for anyone who hasn't done much web development._
 
 ## Documentation
 
-* [ ] [How to Markdown](https://github.com/workshopper/how-to-markdown)
+* [x] [How to Markdown](https://github.com/workshopper/how-to-markdown)
 
 ## Package Management
 
