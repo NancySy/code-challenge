@@ -46,9 +46,9 @@ _Great for anyone who hasn't done much web development._
 
 ## Package Management
 
-* [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
+* [x] [How to NPM](https://github.com/workshopper/how-to-npm)
   * [ ] Extra Credit Repo [https://github.com/username/extra-credit-repo-name]()
-* [ ] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
+* [x] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
 
 ## JavaScript
 
