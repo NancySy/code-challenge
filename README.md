@@ -54,7 +54,7 @@ _Great for anyone who hasn't done much web development._
 
 * [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 * [x] [Expressworks](https://github.com/azat-co/expressworks)
-* [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
+* [x] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
 ## [React](https://facebook.github.io/react/)
