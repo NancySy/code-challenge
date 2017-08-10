@@ -56,17 +56,17 @@ _Great for anyone who hasn't done much web development._
 * [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 * [x] [Expressworks](https://github.com/azat-co/expressworks)
 * [x] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
-=======
+
 [![Build Status](https://img.shields.io/circleci/token/YOUR_TOKEN/project/github/USER/REPO/BRANCH.svg?style=flat-square)](https://circleci.com/USER/REPO/tree/BRANCH) [![Coverage Status](https://img.shields.io/codecov/c/token/YOUR_TOKEN/github/USER/REPO/BRANCH.svg?style=flat-square)](https://codecov.io/USER/REPO/branch/BRANCH)
 
 * [ ] [Learn You Node](https://github.com/workshopper/learnyounode)
 * [ ] [Expressworks](https://github.com/azat-co/expressworks)
 * [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
   * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
->>>>>>> upstream/master
+
 * [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
-  * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md) 
+  * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/202) for the `react-jss` package.
     * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` to avoid the newer breaking updates.
 
