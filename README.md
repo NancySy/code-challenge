@@ -27,12 +27,12 @@ Once you've completed your Git training you will be ready to start branching, co
 
 ## Git / GitHub
 
-  * [ ] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
-  * [ ] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
-  * [ ] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
-  * [ ] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
-    * [ ] Your first repo: [https://github.com/NancySy/hello-world](https://github.com/NancySy/hello-world)
-    * [ ] Your fork of patchwork repo: [https://github.com/NancySy/patchwork](https://github.com/NancySy/patchwork)
+  * [x] ["Postlight GitHub Talk by Jeremy Mack 2016-04-04"](https://www.youtube.com/watch?v=YtckscmKtYk) ([Slides](https://www.mindmeister.com/678359058?t=zgPweW2tuV))
+  * [x] Read about [Postlight's Commit Style](https://trello.com/c/Z2xpXbm1/10-%F0%9F%8E%A8-commit-style)
+  * [x] Read about [Postlight's Pull Request Style](https://trello.com/c/DsH0Ea4L/11-%F0%9F%8C%B1-pull-request-style)
+  * [x] [Git-it Desktop App tutorial ](https://github.com/jlord/git-it-electron)
+    * [x] Your first repo: [https://github.com/NancySy/hello-world](https://github.com/NancySy/hello-world)
+    * [x] Your fork of patchwork repo: [https://github.com/NancySy/patchwork](https://github.com/NancySy/patchwork)
 
 ## Just Starting Out
 
@@ -42,24 +42,25 @@ _Great for anyone who hasn't done much web development._
 
 ## Documentation
 
-* [ ] [How to Markdown](https://github.com/workshopper/how-to-markdown)
+* [x] [How to Markdown](https://github.com/workshopper/how-to-markdown)
 
 ## Package Management
 
-* [ ] [How to NPM](https://github.com/workshopper/how-to-npm)
+* [x] [How to NPM](https://github.com/workshopper/how-to-npm)
   * [ ] Extra Credit Repo [https://github.com/username/extra-credit-repo-name]()
-* [ ] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
+* [x] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
 
 ## JavaScript
 
-[![Build Status](https://img.shields.io/circleci/token/YOUR_TOKEN/project/github/USER/REPO/BRANCH.svg?style=flat-square)](https://circleci.com/USER/REPO/tree/BRANCH) [![Coverage Status](https://img.shields.io/codecov/c/token/YOUR_TOKEN/github/USER/REPO/BRANCH.svg?style=flat-square)](https://codecov.io/USER/REPO/branch/BRANCH)
+[![Build Status](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://circleci.com/gh/NancySy/taskTutorial/)
+[![Coverage Status](https://img.shields.io/codecov/c/github/codecov/example-python/master.svg)](https://codecov.io/github/NancySy/taskTutorial?branch=master)
 
-* [ ] [Learn You Node](https://github.com/workshopper/learnyounode)
-* [ ] [Expressworks](https://github.com/azat-co/expressworks)
-* [ ] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
+* [x] [Learn You Node](https://github.com/workshopper/learnyounode)
+* [x] [Expressworks](https://github.com/azat-co/expressworks)
+* [x] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
   * _Note_ Exercises 9 and 10 have bugs in the workshopper that will cause your solution to always fail as documented [here](https://github.com/stevekane/promise-it-wont-hurt/pull/112). Complete and leave it failed or skip it altogether.
 
-* [ ] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
+* [x] [Step-by-step tutorial to build a modern JavaScript stack](https://github.com/verekia/js-stack-from-scratch)
 
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/202) for the `react-jss` package.
