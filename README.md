@@ -52,7 +52,6 @@ _Great for anyone who hasn't done much web development._
 
 ## JavaScript
 
-<<<<<<< HEAD
 * [x] [Learn You Node](https://github.com/workshopper/learnyounode)
 * [x] [Expressworks](https://github.com/azat-co/expressworks)
 * [x] [Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
