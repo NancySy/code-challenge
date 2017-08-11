@@ -77,7 +77,7 @@ _Great for anyone who hasn't done much web development._
 
 ## [React](https://facebook.github.io/react/)
 
-* [ ] [Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+* [x] [Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 * [ ] [React Express](http://www.react.express/)
 * [ ] [Create React App](https://github.com/facebookincubator/create-react-app)
 * [ ] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
