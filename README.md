@@ -81,7 +81,7 @@ _Great for anyone who hasn't done much web development._
 * [x] [React Express](http://www.react.express/)
 * [x] [Create React App](https://github.com/facebookincubator/create-react-app)
 * [x] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
-* [ ] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
