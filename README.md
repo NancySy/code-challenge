@@ -47,8 +47,8 @@ _Great for anyone who hasn't done much web development._
 ## Package Management
 
 * [x] [How to NPM](https://github.com/workshopper/how-to-npm)
-  * [ ] Extra Credit Repo [https://github.com/username/extra-credit-repo-name]()
-* [x] [Egghead video - Yarn: A JavaScript Package Manager](https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager)
+  * [ ] Extra Credit Repo [https://github.com/username/put-extra-credit-repo-name-here](https://github.com/username/put-extra-credit-repo-name-here)
+* [ ] [Intro to Yarn Package Manager - Chris Courses](https://www.youtube.com/watch?v=7n467QmiANM)
 
 ## JavaScript
 
@@ -64,7 +64,7 @@ _Great for anyone who hasn't done much web development._
 
   * [Part 08](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/08-bootstrap-jss.md)
     * There is a reported [issue](https://github.com/verekia/js-stack-from-scratch/issues/202) for the `react-jss` package.
-    * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` to avoid the newer breaking updates.
+    * Stick to the 5.3.0 version by running: `npm install react-jss@5.3.0` or `yarn add react-jss@5.3.0` to avoid the newer breaking updates.
 
   * [Part 09](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md)
     * Create a separate repository, it makes it easier to set up CI and to Deploy your app.
@@ -83,8 +83,24 @@ _Great for anyone who hasn't done much web development._
 * [x] [Testing with Jest](https://facebook.github.io/jest/docs/tutorial-react.html)
 * [x] [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
+## Putting it All Together
+
+Now that you have completed the training you can put it to practice to see how far your skills have evolved. Apply what you have learned by either revamping the code-challenge submission or writing an application from scratch that demonstrates the skills learned.
+
+* [ ] [https://github.com/username/my-application](https://github.com/username/my-application)
 
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
+
+## PHP
+
+* Follow the instructions on [PHP School](https://www.phpschool.io/) to accomplish the following workshops:
+  * [ ] [Learn You PHP](https://github.com/php-school/learn-you-php)
+    * The last exercise (Dependency Heaven) might fail to verify due to case sensitivity issue in the headers: `Pragma: no-cache` - `pragma: no-cache` 
+  * [ ] [Callable Functions](https://github.com/NastasiaSaby/callable-functions)
+  * [ ] [PHP7 way](https://github.com/NastasiaSaby/php7-way)
+
+* Optional: 
+  * [ ] Build a modern API using [Slim PHP](https://www.slimframework.com/) by following this [tutorial](https://www.slimframework.com/docs/tutorial/first-app.html)
 
 ---
 
