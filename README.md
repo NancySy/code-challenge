@@ -87,7 +87,7 @@ _Great for anyone who hasn't done much web development._
 
 Now that you have completed the training you can put it to practice to see how far your skills have evolved. Apply what you have learned by either revamping the code-challenge submission or writing an application from scratch that demonstrates the skills learned.
 
-* [ ] [https://github.com/username/my-application](https://github.com/username/my-application)
+* [x] [https://github.com/NancySy/learn/code-challenge](https://github.com/NancySy/learn/code-challenge)
 
 See also: [The Postlight Engineering Library](https://trello.com/b/Sgol3uST/postlight-engineering-library).
 
