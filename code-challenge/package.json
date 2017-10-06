@@ -1,0 +1,36 @@
+{
+  "name": "code-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-client": "^1.9.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "faker": "^4.1.0",
+    "graphql-anywhere": "^3.1.0",
+    "graphql-server-express": "^1.1.2",
+    "graphql-tag": "^2.4.2",
+    "graphql-tools": "^1.2.3",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-apollo": "^1.4.16",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "redux": "^3.7.2",
+    "sequelize": "^4.13.1",
+    "sqlite3": "^3.1.13",
+    "styled-components": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .js,.jsx",
+    "lint:fix": "eslint src --ext .js,.jsx --fix"
+  }
+}
